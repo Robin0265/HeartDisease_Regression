@@ -2,4 +2,5 @@
 # *.gif
 
 # ignore folders 
+**/Lesson0 - Jupyter Notebook_files/ 
 **/.ipynb_checkpoints/ 
